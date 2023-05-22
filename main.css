@@ -120,9 +120,3 @@ h3 {
     transition-delay: 0;
 }
 
-@media screen and (max-width: 992px) {
-
-    body {
-        background-size: contain;
-    }
-}
